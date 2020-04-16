@@ -27,4 +27,4 @@ After merging the push certificate request into your computer then exporting to 
 ## TODO
 
 * Complete Android script to send using FCM (Firebase Cloud Messaging)
-* Remove dependency of thrid party library for IOS
+* Remove dependency of third party library for IOS
